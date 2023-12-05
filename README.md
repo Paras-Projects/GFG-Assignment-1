@@ -1,1 +1,3 @@
 # GFG-Assignment-1
+<!-- create 5 branches 2 files in each and one file is same(common) and second is different 
+and merge them all different file in one -->
