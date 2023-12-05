@@ -1,3 +1,2 @@
 # GFG-Assignment-1
-<!-- create 5 branches 2 files in each and one file is same(common) and second is different 
-and merge them all different file in one -->
+you have to create total 6 branches in one main and other 5 is for developers so you have to create one file in all the branches and have to pull one file from master/main and you have to pull this file in all your 5 developers branches and in your developer branches you have one file over there with diferent name and in developer branch you have to make some changes in all the 2 files pull it into you main/master branch.
